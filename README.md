@@ -1,5 +1,8 @@
+#小组成员
+丁俐杉2025303110114
+于辛铠2025303110116
+成一潇2025303110122
 # datars-assignment-4
-第四次作业
 # Reproducible Machine Learning Pipeline for Satellite-based Air Pollution Retrieval
 
 ## 项目背景 (Background)
@@ -16,7 +19,7 @@
 3. **可重复性实现**: 通过 `uv` 环境管理器锁定依赖版本，确保模型训练和验证结果在不同环境下的一致性。
 
 ## 技术栈 (Technical Stack)
-- **环境管理**: [uv](https://astral.sh/uv) (Astral 出品的极速 Python 包管理工具)
+- **环境管理**: [uv]
 - **机器学习**: `scikit-learn` (Random Forest Regressor)
 - **数据处理**: `pandas`, `numpy`
 - **可视化**: `matplotlib`, `seaborn` (用于绘制论文风格的密度散点图和时序变化图)
